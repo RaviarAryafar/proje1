@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,15 +17,19 @@ html,body {
 	font-family: "Fira Sans", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 25px;
 }
 
 .form-structor {
 	background-color: #222;
 	border-radius: 15px;
-	height: 550px;
-	width: 350px;
+	height: 800px;
+	width: 500px;
 	position: relative;
 	overflow: hidden;
+    font-size: 32px;
+    padding: 50px;
+    font-size: 28px;
 	
 	&::after {
 		content: '';
@@ -105,6 +109,7 @@ html,body {
 				border-bottom: 1px solid #eee;
 				width: 100%;
 				font-size: 12px;
+                font-size: 20px;
 				
 				&:last-child {
 					border-bottom: 0;
@@ -204,7 +209,7 @@ html,body {
 					padding: 8px 15px;
 					border-bottom: 1px solid #eee;
 					width: 100%;
-					font-size: 12px;
+					font-size: 22px;
 
 					&:last-child {
 						border-bottom: 0;
@@ -230,6 +235,8 @@ html,body {
 				opacity: 1;
 				visibility: visible;
 				-webkit-transition: all .3s ease;
+                padding: 10px;
+                font-size: 16px;
 
 				&:hover {
 					transition: all .3s ease;
@@ -277,22 +284,29 @@ html,body {
 <body>
 <div class="form-structor">
 	<div class="signup">
-		<h2 class="form-title" id="signup"><span>or</span>Sign up</h2>
+		<h2 class="form-title" id="signup">ثبت نام</h2>
 		<div class="form-holder">
-			<input type="text" class="input" placeholder="Name" />
-			<input type="email" class="input" placeholder="Email" />
-			<input type="password" class="input" placeholder="Password" />
+			<input type="text" class="input" placeholder="نام" />
+			<input type="text" class="input" placeholder="نام خانوادگی" />
+			<input type="text" class="input" placeholder="نام پدر" />
+			<input type="text" class="input" placeholder="شماره تماس پدر" />
+			<input type="text" class="input" placeholder="شماره تماس فرزند" />
+			<input type="text" class="input" placeholder="کد ملی" />
+			<input type="text" class="input" placeholder="تاریخ تولد" />
+			<input type="text" class="input" placeholder="صادره از(اسم شهرتون)" />
+			<input type="text" class="input" placeholder="نام کاربری"/>
+			<input type="text" class="input" placeholder="رمز عبور"/>
 		</div>
-		<button class="submit-btn">Sign up</button>
+		<button class="submit-btn">ثبت</button>
 	</div>
 	<div class="login slide-up">
 		<div class="center">
-			<h2 class="form-title" id="login"><span>or</span>Log in</h2>
+			<h2 class="form-title" id="login">ورود</h2>
 			<div class="form-holder">
-				<input type="email" class="input" placeholder="Email" />
-				<input type="password" class="input" placeholder="Password" />
+				<input type="email" class="input" placeholder="نام کاربری" />
+				<input type="password" class="input" placeholder="رمز عبور" />
 			</div>
-			<button class="submit-btn">Log in</button>
+			<button class="submit-btn">ورود</button>
 		</div>
 	</div>
 </div>
