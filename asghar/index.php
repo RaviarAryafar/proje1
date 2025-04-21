@@ -88,7 +88,7 @@
                 <img src="assets/images/service-icon-01.png" alt="">
               </div>
               <div class="down-content">
-                <h4>Best Education</h4>
+                <h4>ثبت نام</h4>
                 <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
               </div>
             </div>
