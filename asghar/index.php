@@ -610,20 +610,20 @@
         <div class="col-lg-6">
           <div class="row">
             <div class="col-lg-12">
-              <h2>A Few Facts About Our University</h2>
+              <h2>در مورد هیئت ما</h2>
             </div>
             <div class="col-lg-6">
               <div class="row">
                 <div class="col-12">
                   <div class="count-area-content percentage">
                     <div class="count-digit">94</div>
-                    <div class="count-title">Succesed Students</div>
+                    <div class="count-title">اعضای مجرب هیئت</div>
                   </div>
                 </div>
                 <div class="col-12">
                   <div class="count-area-content">
                     <div class="count-digit">126</div>
-                    <div class="count-title">Current Teachers</div>
+                    <div class="count-title">اساتید مجرب</div>
                   </div>
                 </div>
               </div>
@@ -633,13 +633,13 @@
                 <div class="col-12">
                   <div class="count-area-content new-students">
                     <div class="count-digit">2345</div>
-                    <div class="count-title">New Students</div>
+                    <div class="count-title">اعضای جدید</div>
                   </div>
                 </div> 
                 <div class="col-12">
                   <div class="count-area-content">
-                    <div class="count-digit">32</div>
-                    <div class="count-title">Awards</div>
+                    <div class="count-digit">128</div>
+                    <div class="count-title">جوایز</div>
                   </div>
                 </div>
               </div>
@@ -647,8 +647,8 @@
           </div>
         </div> 
         <div class="col-lg-6 align-self-center">
-          <div class="video">
-            <a href="https://www.youtube.com/watch?v=HndV87XpkWg" target="_blank"><img src="assets/images/play-icon.png" alt=""></a>
+        <img src="assets/images/quran4.jpeg">
+            
           </div>
         </div>
       </div>
