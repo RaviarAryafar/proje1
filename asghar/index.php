@@ -18,7 +18,7 @@
           <div class="row">
               <div class="col-12">
                   <nav class="main-nav">
-                      <a href="index.php" class="logo">
+                      <a href="signup.php" class="logo">
                           ورود/ثبت نام
                       </a>
                       <div class="partishen">
@@ -88,8 +88,8 @@
                 <img src="assets/images/service-icon-01.png" alt="">
               </div>
               <div class="down-content">
-                <h4>Best Education</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <h4>اردو های تفریحی</h4>
+                <p>اردوهای تفریحی با هیئت مذهبی، لحظاتی شاد و معنوی را در دل طبیعت به ارمغان می‌آورند. این برنامه‌ها فرصتی برای زیارت، تقویت ایمان و ایجاد خاطراتی زیبا با دوستان همفکر هستند.</p>
               </div>
             </div>
             
@@ -98,8 +98,8 @@
                 <img src="assets/images/service-icon-02.png" alt="">
               </div>
               <div class="down-content">
-                <h4>Best Teachers</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <h4>جلسه های قرآنی</h4>
+                <p>جلسه‌های قرآنی، محفل انس با کلام الهی و فضایی سرشار از نور و آرامش هستند. در این گردهمایی‌های معنوی، دل‌ها با تلاوت آیات قرآن زنده و جان‌ها با تفاسیر عمیق آن به روشنی هدایت می‌شوند. بیایید با حضور در این جلسات، به سفر در دنیای معنویت و ارتباط نزدیک‌تر با خداوند بپردازیم.</p>
               </div>
             </div>
             
@@ -108,8 +108,8 @@
                 <img src="assets/images/service-icon-03.png" alt="">
               </div>
               <div class="down-content">
-                <h4>Best Students</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <h4>جوایز ویژه قرآنی</h4>
+                <p>در مجالس قرآنی، جوایز ویژه‌ای برای کسانی که قرآن را حفظ یا یاد می‌گیرند اهدا می‌شود. این جوایز، انگیزه‌ای برای تقویت ارتباط با کلام الهی و ترویج آموزه‌های قرآنی است.</p>
               </div>
             </div>
             
@@ -118,8 +118,8 @@
                 <img src="assets/images/service-icon-02.png" alt="">
               </div>
               <div class="down-content">
-                <h4>Online Meeting</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <h4>نظرات و پیشنهادات</h4>
+                <p>نظرات و پیشنهادات ارزشمند شما راهنمایی روشن برای بهبود و ارتقاء فعالیت‌های ماست. لطفاً با اشتراک‌گذاری دیدگاه‌های خود، در این مسیر ما را همراهی کنید.</p>
               </div>
             </div>
             
@@ -128,8 +128,8 @@
                 <img src="assets/images/service-icon-03.png" alt="">
               </div>
               <div class="down-content">
-                <h4>Best Networking</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <h4>اطلاع از اخبار هر هفته</h4>
+                <p>برای اطلاع از اخبار هفتگی هیئت مذهبی حضرت علی‌اصغر، با ما همراه باشید. اخبار برنامه‌ها، جلسات و رویدادهای معنوی هر هفته به‌صورت منظم منتشر می‌شود تا بتوانید از آخرین اطلاعات بهره‌مند شوید.</p>
               </div>
             </div>
             
