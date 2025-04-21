@@ -622,7 +622,7 @@
                 </div>
                 <div class="col-12">
                   <div class="count-area-content">
-                    <div class="count-digit">126</div>
+                    <div class="count-digit">10</div>
                     <div class="count-title">اساتید مجرب</div>
                   </div>
                 </div>
@@ -632,13 +632,13 @@
               <div class="row">
                 <div class="col-12">
                   <div class="count-area-content new-students">
-                    <div class="count-digit">2345</div>
-                    <div class="count-title">اعضای جدید</div>
+                    <div class="count-digit">3250</div>
+                    <div class="count-title">اعضای فعلی</div>
                   </div>
                 </div> 
                 <div class="col-12">
                   <div class="count-area-content">
-                    <div class="count-digit">128</div>
+                    <div class="count-digit">512</div>
                     <div class="count-title">جوایز</div>
                   </div>
                 </div>
@@ -664,31 +664,31 @@
               <form id="contact" action="" method="post">
                 <div class="row">
                   <div class="col-lg-12">
-                    <h2>Let's get in touch</h2>
+                    <h2>ارتباط با ما</h2>
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
-                      <input name="name" type="text" id="name" placeholder="YOURNAME...*" required="">
+                      <input name="name" type="text" id="name" placeholder="نام و نام خوانوادگی...*" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
-                    <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="YOUR EMAIL..." required="">
+                    <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="ایمیل..." required="">
                   </fieldset>
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
-                      <input name="subject" type="text" id="subject" placeholder="SUBJECT...*" required="">
+                      <input name="subject" type="text" id="subject" placeholder="موضوع...*" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" type="text" class="form-control" id="message" placeholder="YOUR MESSAGE..." required=""></textarea>
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="پیغام شما..." required=""></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="button">SEND MESSAGE NOW</button>
+                      <button type="submit" id="form-submit" class="button">ارسال پیغام</button>
                     </fieldset>
                   </div>
                 </div>
@@ -700,19 +700,19 @@
           <div class="right-info">
             <ul>
               <li>
-                <h6>Phone Number</h6>
-                <span>010-020-0340</span>
+                <h6>شماره تفلن</h6>
+                <span>09936729280</span>
               </li>
               <li>
-                <h6>Email Address</h6>
-                <span>info@meeting.edu</span>
+                <h6>آدرس ایمیل</h6>
+                <span>sajjad017@meeting.edu</span>
               </li>
               <li>
-                <h6>Street Address</h6>
-                <span>Rio de Janeiro - RJ, 22795-008, Brazil</span>
+                <h6>ادرس</h6>
+                <span>فلاورجان خیابان امام</span>
               </li>
               <li>
-                <h6>Website URL</h6>
+                <h6>ادرس وبسایت</h6>
                 <span>www.meeting.edu</span>
               </li>
             </ul>
