@@ -1686,6 +1686,8 @@ section.meetings-page .pagination ul li a:hover {
 	width: 31%;
 }
 
+
+
 @media (max-width: 992px) {
 	.templatemo-item-col {
 		width: 45%;
@@ -1831,3 +1833,5 @@ responsive
   }
 
 }
+
+

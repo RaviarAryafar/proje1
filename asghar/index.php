@@ -88,8 +88,13 @@
                 <img src="assets/images/service-icon-01.png" alt="">
               </div>
               <div class="down-content">
+<<<<<<< HEAD
                 <h4>اردو های تفریحی</h4>
                 <p>اردوهای تفریحی با هیئت مذهبی، لحظاتی شاد و معنوی را در دل طبیعت به ارمغان می‌آورند. این برنامه‌ها فرصتی برای زیارت، تقویت ایمان و ایجاد خاطراتی زیبا با دوستان همفکر هستند.</p>
+=======
+                <h4>ثبت نام</h4>
+                <p>Suspendisse sa mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+>>>>>>> a3df1eb2bb19b87da73b709c7ece2fa710395426
               </div>
             </div>
             
