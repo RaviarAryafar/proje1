@@ -89,7 +89,7 @@
               </div>
               <div class="down-content">
                 <h4>ثبت نام</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <p>Suspendisse sa mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
               </div>
             </div>
             
